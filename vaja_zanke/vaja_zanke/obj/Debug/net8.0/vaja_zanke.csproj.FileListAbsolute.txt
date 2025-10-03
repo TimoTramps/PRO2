@@ -1,0 +1,14 @@
+C:\pro2\vaja_zanke\vaja_zanke\bin\Debug\net8.0\vaja_zanke.exe
+C:\pro2\vaja_zanke\vaja_zanke\bin\Debug\net8.0\vaja_zanke.deps.json
+C:\pro2\vaja_zanke\vaja_zanke\bin\Debug\net8.0\vaja_zanke.runtimeconfig.json
+C:\pro2\vaja_zanke\vaja_zanke\bin\Debug\net8.0\vaja_zanke.dll
+C:\pro2\vaja_zanke\vaja_zanke\bin\Debug\net8.0\vaja_zanke.pdb
+C:\pro2\vaja_zanke\vaja_zanke\obj\Debug\net8.0\vaja_zanke.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro2\vaja_zanke\vaja_zanke\obj\Debug\net8.0\vaja_zanke.AssemblyInfoInputs.cache
+C:\pro2\vaja_zanke\vaja_zanke\obj\Debug\net8.0\vaja_zanke.AssemblyInfo.cs
+C:\pro2\vaja_zanke\vaja_zanke\obj\Debug\net8.0\vaja_zanke.csproj.CoreCompileInputs.cache
+C:\pro2\vaja_zanke\vaja_zanke\obj\Debug\net8.0\vaja_zanke.dll
+C:\pro2\vaja_zanke\vaja_zanke\obj\Debug\net8.0\refint\vaja_zanke.dll
+C:\pro2\vaja_zanke\vaja_zanke\obj\Debug\net8.0\vaja_zanke.pdb
+C:\pro2\vaja_zanke\vaja_zanke\obj\Debug\net8.0\vaja_zanke.genruntimeconfig.cache
+C:\pro2\vaja_zanke\vaja_zanke\obj\Debug\net8.0\ref\vaja_zanke.dll

@@ -1,0 +1,14 @@
+C:\pro2\Rekurzija\Rekurzija\bin\Debug\net8.0\Rekurzija.exe
+C:\pro2\Rekurzija\Rekurzija\bin\Debug\net8.0\Rekurzija.deps.json
+C:\pro2\Rekurzija\Rekurzija\bin\Debug\net8.0\Rekurzija.runtimeconfig.json
+C:\pro2\Rekurzija\Rekurzija\bin\Debug\net8.0\Rekurzija.dll
+C:\pro2\Rekurzija\Rekurzija\bin\Debug\net8.0\Rekurzija.pdb
+C:\pro2\Rekurzija\Rekurzija\obj\Debug\net8.0\Rekurzija.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro2\Rekurzija\Rekurzija\obj\Debug\net8.0\Rekurzija.AssemblyInfoInputs.cache
+C:\pro2\Rekurzija\Rekurzija\obj\Debug\net8.0\Rekurzija.AssemblyInfo.cs
+C:\pro2\Rekurzija\Rekurzija\obj\Debug\net8.0\Rekurzija.csproj.CoreCompileInputs.cache
+C:\pro2\Rekurzija\Rekurzija\obj\Debug\net8.0\Rekurzija.dll
+C:\pro2\Rekurzija\Rekurzija\obj\Debug\net8.0\refint\Rekurzija.dll
+C:\pro2\Rekurzija\Rekurzija\obj\Debug\net8.0\Rekurzija.pdb
+C:\pro2\Rekurzija\Rekurzija\obj\Debug\net8.0\Rekurzija.genruntimeconfig.cache
+C:\pro2\Rekurzija\Rekurzija\obj\Debug\net8.0\ref\Rekurzija.dll
