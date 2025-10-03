@@ -1,0 +1,14 @@
+C:\pro2\Palindromi\Palindromi\bin\Debug\net8.0\Palindromi.exe
+C:\pro2\Palindromi\Palindromi\bin\Debug\net8.0\Palindromi.deps.json
+C:\pro2\Palindromi\Palindromi\bin\Debug\net8.0\Palindromi.runtimeconfig.json
+C:\pro2\Palindromi\Palindromi\bin\Debug\net8.0\Palindromi.dll
+C:\pro2\Palindromi\Palindromi\bin\Debug\net8.0\Palindromi.pdb
+C:\pro2\Palindromi\Palindromi\obj\Debug\net8.0\Palindromi.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro2\Palindromi\Palindromi\obj\Debug\net8.0\Palindromi.AssemblyInfoInputs.cache
+C:\pro2\Palindromi\Palindromi\obj\Debug\net8.0\Palindromi.AssemblyInfo.cs
+C:\pro2\Palindromi\Palindromi\obj\Debug\net8.0\Palindromi.csproj.CoreCompileInputs.cache
+C:\pro2\Palindromi\Palindromi\obj\Debug\net8.0\Palindromi.dll
+C:\pro2\Palindromi\Palindromi\obj\Debug\net8.0\refint\Palindromi.dll
+C:\pro2\Palindromi\Palindromi\obj\Debug\net8.0\Palindromi.pdb
+C:\pro2\Palindromi\Palindromi\obj\Debug\net8.0\Palindromi.genruntimeconfig.cache
+C:\pro2\Palindromi\Palindromi\obj\Debug\net8.0\ref\Palindromi.dll

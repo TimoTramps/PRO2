@@ -1,0 +1,14 @@
+C:\pro2\HanoiTower\HanoiTower\bin\Debug\net8.0\HanoiTower.exe
+C:\pro2\HanoiTower\HanoiTower\bin\Debug\net8.0\HanoiTower.deps.json
+C:\pro2\HanoiTower\HanoiTower\bin\Debug\net8.0\HanoiTower.runtimeconfig.json
+C:\pro2\HanoiTower\HanoiTower\bin\Debug\net8.0\HanoiTower.dll
+C:\pro2\HanoiTower\HanoiTower\bin\Debug\net8.0\HanoiTower.pdb
+C:\pro2\HanoiTower\HanoiTower\obj\Debug\net8.0\HanoiTower.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro2\HanoiTower\HanoiTower\obj\Debug\net8.0\HanoiTower.AssemblyInfoInputs.cache
+C:\pro2\HanoiTower\HanoiTower\obj\Debug\net8.0\HanoiTower.AssemblyInfo.cs
+C:\pro2\HanoiTower\HanoiTower\obj\Debug\net8.0\HanoiTower.csproj.CoreCompileInputs.cache
+C:\pro2\HanoiTower\HanoiTower\obj\Debug\net8.0\HanoiTower.dll
+C:\pro2\HanoiTower\HanoiTower\obj\Debug\net8.0\refint\HanoiTower.dll
+C:\pro2\HanoiTower\HanoiTower\obj\Debug\net8.0\HanoiTower.pdb
+C:\pro2\HanoiTower\HanoiTower\obj\Debug\net8.0\HanoiTower.genruntimeconfig.cache
+C:\pro2\HanoiTower\HanoiTower\obj\Debug\net8.0\ref\HanoiTower.dll
