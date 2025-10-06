@@ -1,0 +1,14 @@
+C:\pro2\UrejanjeNiz\UrejanjeNiz\obj\Debug\net8.0\UrejanjeNiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro2\UrejanjeNiz\UrejanjeNiz\obj\Debug\net8.0\UrejanjeNiz.AssemblyInfoInputs.cache
+C:\pro2\UrejanjeNiz\UrejanjeNiz\obj\Debug\net8.0\UrejanjeNiz.AssemblyInfo.cs
+C:\pro2\UrejanjeNiz\UrejanjeNiz\obj\Debug\net8.0\UrejanjeNiz.csproj.CoreCompileInputs.cache
+C:\pro2\UrejanjeNiz\UrejanjeNiz\bin\Debug\net8.0\UrejanjeNiz.exe
+C:\pro2\UrejanjeNiz\UrejanjeNiz\bin\Debug\net8.0\UrejanjeNiz.deps.json
+C:\pro2\UrejanjeNiz\UrejanjeNiz\bin\Debug\net8.0\UrejanjeNiz.runtimeconfig.json
+C:\pro2\UrejanjeNiz\UrejanjeNiz\bin\Debug\net8.0\UrejanjeNiz.dll
+C:\pro2\UrejanjeNiz\UrejanjeNiz\bin\Debug\net8.0\UrejanjeNiz.pdb
+C:\pro2\UrejanjeNiz\UrejanjeNiz\obj\Debug\net8.0\UrejanjeNiz.dll
+C:\pro2\UrejanjeNiz\UrejanjeNiz\obj\Debug\net8.0\refint\UrejanjeNiz.dll
+C:\pro2\UrejanjeNiz\UrejanjeNiz\obj\Debug\net8.0\UrejanjeNiz.pdb
+C:\pro2\UrejanjeNiz\UrejanjeNiz\obj\Debug\net8.0\UrejanjeNiz.genruntimeconfig.cache
+C:\pro2\UrejanjeNiz\UrejanjeNiz\obj\Debug\net8.0\ref\UrejanjeNiz.dll

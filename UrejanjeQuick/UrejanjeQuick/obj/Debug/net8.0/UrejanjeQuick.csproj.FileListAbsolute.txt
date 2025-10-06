@@ -1,0 +1,14 @@
+C:\pro2\UrejanjeQuick\UrejanjeQuick\bin\Debug\net8.0\UrejanjeQuick.exe
+C:\pro2\UrejanjeQuick\UrejanjeQuick\bin\Debug\net8.0\UrejanjeQuick.deps.json
+C:\pro2\UrejanjeQuick\UrejanjeQuick\bin\Debug\net8.0\UrejanjeQuick.runtimeconfig.json
+C:\pro2\UrejanjeQuick\UrejanjeQuick\bin\Debug\net8.0\UrejanjeQuick.dll
+C:\pro2\UrejanjeQuick\UrejanjeQuick\bin\Debug\net8.0\UrejanjeQuick.pdb
+C:\pro2\UrejanjeQuick\UrejanjeQuick\obj\Debug\net8.0\UrejanjeQuick.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro2\UrejanjeQuick\UrejanjeQuick\obj\Debug\net8.0\UrejanjeQuick.AssemblyInfoInputs.cache
+C:\pro2\UrejanjeQuick\UrejanjeQuick\obj\Debug\net8.0\UrejanjeQuick.AssemblyInfo.cs
+C:\pro2\UrejanjeQuick\UrejanjeQuick\obj\Debug\net8.0\UrejanjeQuick.csproj.CoreCompileInputs.cache
+C:\pro2\UrejanjeQuick\UrejanjeQuick\obj\Debug\net8.0\UrejanjeQuick.dll
+C:\pro2\UrejanjeQuick\UrejanjeQuick\obj\Debug\net8.0\refint\UrejanjeQuick.dll
+C:\pro2\UrejanjeQuick\UrejanjeQuick\obj\Debug\net8.0\UrejanjeQuick.pdb
+C:\pro2\UrejanjeQuick\UrejanjeQuick\obj\Debug\net8.0\UrejanjeQuick.genruntimeconfig.cache
+C:\pro2\UrejanjeQuick\UrejanjeQuick\obj\Debug\net8.0\ref\UrejanjeQuick.dll

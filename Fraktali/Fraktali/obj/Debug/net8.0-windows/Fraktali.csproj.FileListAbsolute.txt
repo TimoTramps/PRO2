@@ -1,0 +1,16 @@
+C:\pro2\Fraktali\Fraktali\bin\Debug\net8.0-windows\Fraktali.exe
+C:\pro2\Fraktali\Fraktali\bin\Debug\net8.0-windows\Fraktali.deps.json
+C:\pro2\Fraktali\Fraktali\bin\Debug\net8.0-windows\Fraktali.runtimeconfig.json
+C:\pro2\Fraktali\Fraktali\bin\Debug\net8.0-windows\Fraktali.dll
+C:\pro2\Fraktali\Fraktali\bin\Debug\net8.0-windows\Fraktali.pdb
+C:\pro2\Fraktali\Fraktali\obj\Debug\net8.0-windows\Fraktali.Form1.resources
+C:\pro2\Fraktali\Fraktali\obj\Debug\net8.0-windows\Fraktali.csproj.GenerateResource.cache
+C:\pro2\Fraktali\Fraktali\obj\Debug\net8.0-windows\Fraktali.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro2\Fraktali\Fraktali\obj\Debug\net8.0-windows\Fraktali.AssemblyInfoInputs.cache
+C:\pro2\Fraktali\Fraktali\obj\Debug\net8.0-windows\Fraktali.AssemblyInfo.cs
+C:\pro2\Fraktali\Fraktali\obj\Debug\net8.0-windows\Fraktali.csproj.CoreCompileInputs.cache
+C:\pro2\Fraktali\Fraktali\obj\Debug\net8.0-windows\Fraktali.dll
+C:\pro2\Fraktali\Fraktali\obj\Debug\net8.0-windows\refint\Fraktali.dll
+C:\pro2\Fraktali\Fraktali\obj\Debug\net8.0-windows\Fraktali.pdb
+C:\pro2\Fraktali\Fraktali\obj\Debug\net8.0-windows\Fraktali.genruntimeconfig.cache
+C:\pro2\Fraktali\Fraktali\obj\Debug\net8.0-windows\ref\Fraktali.dll
