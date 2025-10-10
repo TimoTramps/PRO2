@@ -9,8 +9,8 @@ namespace KliciMe
     internal class Kupec
     {
         
-        private string ime;
-        private decimal stanje;
+        protected string ime;
+        protected decimal stanje;
 
         public string Ime { get => ime; set => ime = value; }
         public decimal Stanje { get => stanje; set => stanje = value; }
@@ -19,7 +19,7 @@ namespace KliciMe
         {
             stanje -= plačilo;
         }
-        public void BeležiKlic(int minute, TipKlica tipKlica)
+        public virtual void BeležiKlic(int minute, TipKlica tipKlica)
         {
             //1-stacionarno=minute*0.2, 2-mobilno=minute*0.03
 
@@ -34,6 +34,10 @@ namespace KliciMe
                     break;
 
             }
+        }
+        public override string ToString()
+        {
+            return ime + " dolguje " + stanje + " EUR";
         }
     }
 }

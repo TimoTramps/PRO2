@@ -8,6 +8,6 @@ namespace KliciMe
 {
     enum TipKlica
     {
-        Stacionarno=1, Mobilno=2, SMS=3, Prenosi=4, MMS=5
+        Stacionarno=1, Mobilno=2
     }
 }
