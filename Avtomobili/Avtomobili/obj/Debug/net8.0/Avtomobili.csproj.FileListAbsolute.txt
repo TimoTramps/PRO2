@@ -1,0 +1,14 @@
+C:\pro2\Avtomobili\Avtomobili\bin\Debug\net8.0\Avtomobili.exe
+C:\pro2\Avtomobili\Avtomobili\bin\Debug\net8.0\Avtomobili.deps.json
+C:\pro2\Avtomobili\Avtomobili\bin\Debug\net8.0\Avtomobili.runtimeconfig.json
+C:\pro2\Avtomobili\Avtomobili\bin\Debug\net8.0\Avtomobili.dll
+C:\pro2\Avtomobili\Avtomobili\bin\Debug\net8.0\Avtomobili.pdb
+C:\pro2\Avtomobili\Avtomobili\obj\Debug\net8.0\Avtomobili.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro2\Avtomobili\Avtomobili\obj\Debug\net8.0\Avtomobili.AssemblyInfoInputs.cache
+C:\pro2\Avtomobili\Avtomobili\obj\Debug\net8.0\Avtomobili.AssemblyInfo.cs
+C:\pro2\Avtomobili\Avtomobili\obj\Debug\net8.0\Avtomobili.csproj.CoreCompileInputs.cache
+C:\pro2\Avtomobili\Avtomobili\obj\Debug\net8.0\Avtomobili.dll
+C:\pro2\Avtomobili\Avtomobili\obj\Debug\net8.0\refint\Avtomobili.dll
+C:\pro2\Avtomobili\Avtomobili\obj\Debug\net8.0\Avtomobili.pdb
+C:\pro2\Avtomobili\Avtomobili\obj\Debug\net8.0\Avtomobili.genruntimeconfig.cache
+C:\pro2\Avtomobili\Avtomobili\obj\Debug\net8.0\ref\Avtomobili.dll
