@@ -1,0 +1,14 @@
+C:\pro2\Preobtez\Preobtez\bin\Debug\net8.0\Preobtez.exe
+C:\pro2\Preobtez\Preobtez\bin\Debug\net8.0\Preobtez.deps.json
+C:\pro2\Preobtez\Preobtez\bin\Debug\net8.0\Preobtez.runtimeconfig.json
+C:\pro2\Preobtez\Preobtez\bin\Debug\net8.0\Preobtez.dll
+C:\pro2\Preobtez\Preobtez\bin\Debug\net8.0\Preobtez.pdb
+C:\pro2\Preobtez\Preobtez\obj\Debug\net8.0\Preobtez.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro2\Preobtez\Preobtez\obj\Debug\net8.0\Preobtez.AssemblyInfoInputs.cache
+C:\pro2\Preobtez\Preobtez\obj\Debug\net8.0\Preobtez.AssemblyInfo.cs
+C:\pro2\Preobtez\Preobtez\obj\Debug\net8.0\Preobtez.csproj.CoreCompileInputs.cache
+C:\pro2\Preobtez\Preobtez\obj\Debug\net8.0\Preobtez.dll
+C:\pro2\Preobtez\Preobtez\obj\Debug\net8.0\refint\Preobtez.dll
+C:\pro2\Preobtez\Preobtez\obj\Debug\net8.0\Preobtez.pdb
+C:\pro2\Preobtez\Preobtez\obj\Debug\net8.0\Preobtez.genruntimeconfig.cache
+C:\pro2\Preobtez\Preobtez\obj\Debug\net8.0\ref\Preobtez.dll
