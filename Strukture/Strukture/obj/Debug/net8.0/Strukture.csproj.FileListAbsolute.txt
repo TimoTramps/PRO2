@@ -1,0 +1,14 @@
+C:\pro2\Strukture\Strukture\bin\Debug\net8.0\Strukture.exe
+C:\pro2\Strukture\Strukture\bin\Debug\net8.0\Strukture.deps.json
+C:\pro2\Strukture\Strukture\bin\Debug\net8.0\Strukture.runtimeconfig.json
+C:\pro2\Strukture\Strukture\bin\Debug\net8.0\Strukture.dll
+C:\pro2\Strukture\Strukture\bin\Debug\net8.0\Strukture.pdb
+C:\pro2\Strukture\Strukture\obj\Debug\net8.0\Strukture.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro2\Strukture\Strukture\obj\Debug\net8.0\Strukture.AssemblyInfoInputs.cache
+C:\pro2\Strukture\Strukture\obj\Debug\net8.0\Strukture.AssemblyInfo.cs
+C:\pro2\Strukture\Strukture\obj\Debug\net8.0\Strukture.csproj.CoreCompileInputs.cache
+C:\pro2\Strukture\Strukture\obj\Debug\net8.0\Strukture.dll
+C:\pro2\Strukture\Strukture\obj\Debug\net8.0\refint\Strukture.dll
+C:\pro2\Strukture\Strukture\obj\Debug\net8.0\Strukture.pdb
+C:\pro2\Strukture\Strukture\obj\Debug\net8.0\Strukture.genruntimeconfig.cache
+C:\pro2\Strukture\Strukture\obj\Debug\net8.0\ref\Strukture.dll
