@@ -1,0 +1,16 @@
+C:\pro2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\bin\Debug\net8.0-windows\Računanje s kompleksnimi števili.exe
+C:\pro2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\bin\Debug\net8.0-windows\Računanje s kompleksnimi števili.deps.json
+C:\pro2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\bin\Debug\net8.0-windows\Računanje s kompleksnimi števili.runtimeconfig.json
+C:\pro2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\bin\Debug\net8.0-windows\Računanje s kompleksnimi števili.dll
+C:\pro2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\bin\Debug\net8.0-windows\Računanje s kompleksnimi števili.pdb
+C:\pro2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\obj\Debug\net8.0-windows\Računanje_s_kompleksnimi_števili.Form1.resources
+C:\pro2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\obj\Debug\net8.0-windows\Računanje s kompleksnimi števili.csproj.GenerateResource.cache
+C:\pro2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\obj\Debug\net8.0-windows\Računanje s kompleksnimi števili.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\obj\Debug\net8.0-windows\Računanje s kompleksnimi števili.AssemblyInfoInputs.cache
+C:\pro2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\obj\Debug\net8.0-windows\Računanje s kompleksnimi števili.AssemblyInfo.cs
+C:\pro2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\obj\Debug\net8.0-windows\Računanje s kompleksnimi števili.csproj.CoreCompileInputs.cache
+C:\pro2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\obj\Debug\net8.0-windows\Računanje s kompleksnimi števili.dll
+C:\pro2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\obj\Debug\net8.0-windows\refint\Računanje s kompleksnimi števili.dll
+C:\pro2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\obj\Debug\net8.0-windows\Računanje s kompleksnimi števili.pdb
+C:\pro2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\obj\Debug\net8.0-windows\Računanje s kompleksnimi števili.genruntimeconfig.cache
+C:\pro2\Računanje s kompleksnimi števili\Računanje s kompleksnimi števili\obj\Debug\net8.0-windows\ref\Računanje s kompleksnimi števili.dll
