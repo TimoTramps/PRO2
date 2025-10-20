@@ -1,0 +1,14 @@
+C:\pro2\Generiki\Generiki\bin\Debug\net8.0\Generiki.exe
+C:\pro2\Generiki\Generiki\bin\Debug\net8.0\Generiki.deps.json
+C:\pro2\Generiki\Generiki\bin\Debug\net8.0\Generiki.runtimeconfig.json
+C:\pro2\Generiki\Generiki\bin\Debug\net8.0\Generiki.dll
+C:\pro2\Generiki\Generiki\bin\Debug\net8.0\Generiki.pdb
+C:\pro2\Generiki\Generiki\obj\Debug\net8.0\Generiki.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro2\Generiki\Generiki\obj\Debug\net8.0\Generiki.AssemblyInfoInputs.cache
+C:\pro2\Generiki\Generiki\obj\Debug\net8.0\Generiki.AssemblyInfo.cs
+C:\pro2\Generiki\Generiki\obj\Debug\net8.0\Generiki.csproj.CoreCompileInputs.cache
+C:\pro2\Generiki\Generiki\obj\Debug\net8.0\Generiki.dll
+C:\pro2\Generiki\Generiki\obj\Debug\net8.0\refint\Generiki.dll
+C:\pro2\Generiki\Generiki\obj\Debug\net8.0\Generiki.pdb
+C:\pro2\Generiki\Generiki\obj\Debug\net8.0\Generiki.genruntimeconfig.cache
+C:\pro2\Generiki\Generiki\obj\Debug\net8.0\ref\Generiki.dll

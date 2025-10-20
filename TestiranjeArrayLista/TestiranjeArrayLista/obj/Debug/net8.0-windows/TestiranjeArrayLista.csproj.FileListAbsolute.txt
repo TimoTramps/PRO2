@@ -1,0 +1,16 @@
+C:\pro2\TestiranjeArrayLista\TestiranjeArrayLista\bin\Debug\net8.0-windows\TestiranjeArrayLista.exe
+C:\pro2\TestiranjeArrayLista\TestiranjeArrayLista\bin\Debug\net8.0-windows\TestiranjeArrayLista.deps.json
+C:\pro2\TestiranjeArrayLista\TestiranjeArrayLista\bin\Debug\net8.0-windows\TestiranjeArrayLista.runtimeconfig.json
+C:\pro2\TestiranjeArrayLista\TestiranjeArrayLista\bin\Debug\net8.0-windows\TestiranjeArrayLista.dll
+C:\pro2\TestiranjeArrayLista\TestiranjeArrayLista\bin\Debug\net8.0-windows\TestiranjeArrayLista.pdb
+C:\pro2\TestiranjeArrayLista\TestiranjeArrayLista\obj\Debug\net8.0-windows\TestiranjeArrayLista.Form1.resources
+C:\pro2\TestiranjeArrayLista\TestiranjeArrayLista\obj\Debug\net8.0-windows\TestiranjeArrayLista.csproj.GenerateResource.cache
+C:\pro2\TestiranjeArrayLista\TestiranjeArrayLista\obj\Debug\net8.0-windows\TestiranjeArrayLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro2\TestiranjeArrayLista\TestiranjeArrayLista\obj\Debug\net8.0-windows\TestiranjeArrayLista.AssemblyInfoInputs.cache
+C:\pro2\TestiranjeArrayLista\TestiranjeArrayLista\obj\Debug\net8.0-windows\TestiranjeArrayLista.AssemblyInfo.cs
+C:\pro2\TestiranjeArrayLista\TestiranjeArrayLista\obj\Debug\net8.0-windows\TestiranjeArrayLista.csproj.CoreCompileInputs.cache
+C:\pro2\TestiranjeArrayLista\TestiranjeArrayLista\obj\Debug\net8.0-windows\TestiranjeArrayLista.dll
+C:\pro2\TestiranjeArrayLista\TestiranjeArrayLista\obj\Debug\net8.0-windows\refint\TestiranjeArrayLista.dll
+C:\pro2\TestiranjeArrayLista\TestiranjeArrayLista\obj\Debug\net8.0-windows\TestiranjeArrayLista.pdb
+C:\pro2\TestiranjeArrayLista\TestiranjeArrayLista\obj\Debug\net8.0-windows\TestiranjeArrayLista.genruntimeconfig.cache
+C:\pro2\TestiranjeArrayLista\TestiranjeArrayLista\obj\Debug\net8.0-windows\ref\TestiranjeArrayLista.dll

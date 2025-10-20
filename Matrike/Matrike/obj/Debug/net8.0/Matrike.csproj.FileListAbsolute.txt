@@ -1,0 +1,14 @@
+C:\pro2\Matrike\Matrike\bin\Debug\net8.0\Matrike.exe
+C:\pro2\Matrike\Matrike\bin\Debug\net8.0\Matrike.deps.json
+C:\pro2\Matrike\Matrike\bin\Debug\net8.0\Matrike.runtimeconfig.json
+C:\pro2\Matrike\Matrike\bin\Debug\net8.0\Matrike.dll
+C:\pro2\Matrike\Matrike\bin\Debug\net8.0\Matrike.pdb
+C:\pro2\Matrike\Matrike\obj\Debug\net8.0\Matrike.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro2\Matrike\Matrike\obj\Debug\net8.0\Matrike.AssemblyInfoInputs.cache
+C:\pro2\Matrike\Matrike\obj\Debug\net8.0\Matrike.AssemblyInfo.cs
+C:\pro2\Matrike\Matrike\obj\Debug\net8.0\Matrike.csproj.CoreCompileInputs.cache
+C:\pro2\Matrike\Matrike\obj\Debug\net8.0\Matrike.dll
+C:\pro2\Matrike\Matrike\obj\Debug\net8.0\refint\Matrike.dll
+C:\pro2\Matrike\Matrike\obj\Debug\net8.0\Matrike.pdb
+C:\pro2\Matrike\Matrike\obj\Debug\net8.0\Matrike.genruntimeconfig.cache
+C:\pro2\Matrike\Matrike\obj\Debug\net8.0\ref\Matrike.dll
