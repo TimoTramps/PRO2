@@ -1,0 +1,16 @@
+C:\pro2\TestSklad\TestSklad\bin\Debug\net8.0-windows\TestSklad.exe
+C:\pro2\TestSklad\TestSklad\bin\Debug\net8.0-windows\TestSklad.deps.json
+C:\pro2\TestSklad\TestSklad\bin\Debug\net8.0-windows\TestSklad.runtimeconfig.json
+C:\pro2\TestSklad\TestSklad\bin\Debug\net8.0-windows\TestSklad.dll
+C:\pro2\TestSklad\TestSklad\bin\Debug\net8.0-windows\TestSklad.pdb
+C:\pro2\TestSklad\TestSklad\obj\Debug\net8.0-windows\TestSklad.Form1.resources
+C:\pro2\TestSklad\TestSklad\obj\Debug\net8.0-windows\TestSklad.csproj.GenerateResource.cache
+C:\pro2\TestSklad\TestSklad\obj\Debug\net8.0-windows\TestSklad.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro2\TestSklad\TestSklad\obj\Debug\net8.0-windows\TestSklad.AssemblyInfoInputs.cache
+C:\pro2\TestSklad\TestSklad\obj\Debug\net8.0-windows\TestSklad.AssemblyInfo.cs
+C:\pro2\TestSklad\TestSklad\obj\Debug\net8.0-windows\TestSklad.csproj.CoreCompileInputs.cache
+C:\pro2\TestSklad\TestSklad\obj\Debug\net8.0-windows\TestSklad.dll
+C:\pro2\TestSklad\TestSklad\obj\Debug\net8.0-windows\refint\TestSklad.dll
+C:\pro2\TestSklad\TestSklad\obj\Debug\net8.0-windows\TestSklad.pdb
+C:\pro2\TestSklad\TestSklad\obj\Debug\net8.0-windows\TestSklad.genruntimeconfig.cache
+C:\pro2\TestSklad\TestSklad\obj\Debug\net8.0-windows\ref\TestSklad.dll

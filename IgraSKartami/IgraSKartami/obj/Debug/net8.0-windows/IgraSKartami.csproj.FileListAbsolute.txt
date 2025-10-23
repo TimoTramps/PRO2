@@ -1,0 +1,16 @@
+C:\pro2\IgraSKartami\IgraSKartami\bin\Debug\net8.0-windows\IgraSKartami.exe
+C:\pro2\IgraSKartami\IgraSKartami\bin\Debug\net8.0-windows\IgraSKartami.deps.json
+C:\pro2\IgraSKartami\IgraSKartami\bin\Debug\net8.0-windows\IgraSKartami.runtimeconfig.json
+C:\pro2\IgraSKartami\IgraSKartami\bin\Debug\net8.0-windows\IgraSKartami.dll
+C:\pro2\IgraSKartami\IgraSKartami\bin\Debug\net8.0-windows\IgraSKartami.pdb
+C:\pro2\IgraSKartami\IgraSKartami\obj\Debug\net8.0-windows\IgraSKartami.Form1.resources
+C:\pro2\IgraSKartami\IgraSKartami\obj\Debug\net8.0-windows\IgraSKartami.csproj.GenerateResource.cache
+C:\pro2\IgraSKartami\IgraSKartami\obj\Debug\net8.0-windows\IgraSKartami.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro2\IgraSKartami\IgraSKartami\obj\Debug\net8.0-windows\IgraSKartami.AssemblyInfoInputs.cache
+C:\pro2\IgraSKartami\IgraSKartami\obj\Debug\net8.0-windows\IgraSKartami.AssemblyInfo.cs
+C:\pro2\IgraSKartami\IgraSKartami\obj\Debug\net8.0-windows\IgraSKartami.csproj.CoreCompileInputs.cache
+C:\pro2\IgraSKartami\IgraSKartami\obj\Debug\net8.0-windows\IgraSKartami.dll
+C:\pro2\IgraSKartami\IgraSKartami\obj\Debug\net8.0-windows\refint\IgraSKartami.dll
+C:\pro2\IgraSKartami\IgraSKartami\obj\Debug\net8.0-windows\IgraSKartami.pdb
+C:\pro2\IgraSKartami\IgraSKartami\obj\Debug\net8.0-windows\IgraSKartami.genruntimeconfig.cache
+C:\pro2\IgraSKartami\IgraSKartami\obj\Debug\net8.0-windows\ref\IgraSKartami.dll
