@@ -1,0 +1,16 @@
+C:\pro2\Raziskovalec\Raziskovalec\bin\Debug\net8.0-windows\Raziskovalec.exe
+C:\pro2\Raziskovalec\Raziskovalec\bin\Debug\net8.0-windows\Raziskovalec.deps.json
+C:\pro2\Raziskovalec\Raziskovalec\bin\Debug\net8.0-windows\Raziskovalec.runtimeconfig.json
+C:\pro2\Raziskovalec\Raziskovalec\bin\Debug\net8.0-windows\Raziskovalec.dll
+C:\pro2\Raziskovalec\Raziskovalec\bin\Debug\net8.0-windows\Raziskovalec.pdb
+C:\pro2\Raziskovalec\Raziskovalec\obj\Debug\net8.0-windows\Raziskovalec.Form1.resources
+C:\pro2\Raziskovalec\Raziskovalec\obj\Debug\net8.0-windows\Raziskovalec.csproj.GenerateResource.cache
+C:\pro2\Raziskovalec\Raziskovalec\obj\Debug\net8.0-windows\Raziskovalec.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro2\Raziskovalec\Raziskovalec\obj\Debug\net8.0-windows\Raziskovalec.AssemblyInfoInputs.cache
+C:\pro2\Raziskovalec\Raziskovalec\obj\Debug\net8.0-windows\Raziskovalec.AssemblyInfo.cs
+C:\pro2\Raziskovalec\Raziskovalec\obj\Debug\net8.0-windows\Raziskovalec.csproj.CoreCompileInputs.cache
+C:\pro2\Raziskovalec\Raziskovalec\obj\Debug\net8.0-windows\Raziskovalec.dll
+C:\pro2\Raziskovalec\Raziskovalec\obj\Debug\net8.0-windows\refint\Raziskovalec.dll
+C:\pro2\Raziskovalec\Raziskovalec\obj\Debug\net8.0-windows\Raziskovalec.pdb
+C:\pro2\Raziskovalec\Raziskovalec\obj\Debug\net8.0-windows\Raziskovalec.genruntimeconfig.cache
+C:\pro2\Raziskovalec\Raziskovalec\obj\Debug\net8.0-windows\ref\Raziskovalec.dll
