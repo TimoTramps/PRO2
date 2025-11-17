@@ -1,0 +1,14 @@
+C:\pro2\VajaXML\VajaXML\bin\Debug\net8.0\VajaXML.exe
+C:\pro2\VajaXML\VajaXML\bin\Debug\net8.0\VajaXML.deps.json
+C:\pro2\VajaXML\VajaXML\bin\Debug\net8.0\VajaXML.runtimeconfig.json
+C:\pro2\VajaXML\VajaXML\bin\Debug\net8.0\VajaXML.dll
+C:\pro2\VajaXML\VajaXML\bin\Debug\net8.0\VajaXML.pdb
+C:\pro2\VajaXML\VajaXML\obj\Debug\net8.0\VajaXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro2\VajaXML\VajaXML\obj\Debug\net8.0\VajaXML.AssemblyInfoInputs.cache
+C:\pro2\VajaXML\VajaXML\obj\Debug\net8.0\VajaXML.AssemblyInfo.cs
+C:\pro2\VajaXML\VajaXML\obj\Debug\net8.0\VajaXML.csproj.CoreCompileInputs.cache
+C:\pro2\VajaXML\VajaXML\obj\Debug\net8.0\VajaXML.dll
+C:\pro2\VajaXML\VajaXML\obj\Debug\net8.0\refint\VajaXML.dll
+C:\pro2\VajaXML\VajaXML\obj\Debug\net8.0\VajaXML.pdb
+C:\pro2\VajaXML\VajaXML\obj\Debug\net8.0\VajaXML.genruntimeconfig.cache
+C:\pro2\VajaXML\VajaXML\obj\Debug\net8.0\ref\VajaXML.dll
