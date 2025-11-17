@@ -1,7 +1,7 @@
 namespace Raziskovalec
 {
 
-    enum Tip { Datoteka, Mapa}
+    enum Tip { Datoteka, Mapa }
     public partial class Form1 : Form
     {
         public Form1()
@@ -11,7 +11,31 @@ namespace Raziskovalec
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            NaložiDrevo();
+            trvDrevo.Nodes.Add("C:\\");
+            NaložiDrevo1("C:\\", trvDrevo.Nodes[0]);
+        }
+
+        private void NaložiDrevo1(string ime, TreeNode roditelj)
+        {
+            try { 
+
+            string[] tabelaMap = Directory.GetDirectories(ime);
+
+            if (tabelaMap.Length != 0){ //robni pogoj
+
+                foreach(string mapa in tabelaMap)
+                {
+                    TreeNode mojV = new TreeNode(mapa);
+                    roditelj.Nodes.Add(mojV);
+                    NaložiDrevo1(mapa, mojV);
+                }
+            }
+            
+            }catch(Exception x) { 
+                //MessageBox.Show(x.Message);
+            }
+            
+                
         }
 
         private void NaložiDrevo()
@@ -78,5 +102,6 @@ namespace Raziskovalec
                         break;
                 }
             }
+        }
     }
 }
